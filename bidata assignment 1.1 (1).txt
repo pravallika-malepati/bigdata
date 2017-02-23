@@ -1,0 +1,39 @@
+                     Assignment 1.1
+
+1)various sources of big data 
+
+A)The various sources of big data are:
+  1.Social Media 
+  2.Business Apps
+  3.Sensor Data
+  4.Media
+  5.Machiene Log Data
+  6.Public Web
+
+
+
+2)3V's of Big Data.
+A)3V's of big data are:
+  1.Volume:Volume refers to the quantity of the data.
+  2.Variety:There are three types of data
+           a.Structured Data
+           b.Semi-Structured Data
+           c.Unstructured Data
+  3.Velocity:speed at which data generates is called velocity
+
+
+
+3)Horizantal scaling and vertical scaling.
+
+A)1.Horizontal scaling:Horizontal scaling means enhancing the performance of server  by adding more instances of server to your pool of                                                           servers so that load can be spread.
+  
+  2.Vertical Scaling:It refers to the process of adding more physical resources  such as memory, storage and CPU to the existing database                                                          server for improving the performance.
+
+4)Need and Working of Hadoop:
+A)Need of Hadoop:
+                It provides the best framework that helps in solving the challenges of big data.
+  Working of hadoop:It is done by two major components.
+                   a.HDFS:Hadoop distributed file System is used for storing the large files.
+                   b.MapReduce:Map Reduce engine processes the stored data.  
+    
+        
